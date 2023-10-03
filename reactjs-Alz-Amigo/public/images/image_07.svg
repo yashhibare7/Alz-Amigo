@@ -1,0 +1,410 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    viewBox="0 0 150 121"
+  >
+  <path
+      d="m0 0v121h150v-121h-150z"
+      fill="#e7e7e7"
+  />
+  <path
+      d="m2 2v116h2v-116h-2z"
+      fill="#070707"
+  />
+  <path
+      d="m4 2v58h1v-39l-1-19z"
+      fill="#5a5a5a"
+  />
+  <path
+      d="m5 2v1h10l-10-1z"
+      fill="#b1b1b1"
+  />
+  <path
+      d="m15 4l45-1h88c-8.36-3.5069-21.94-1-31-1h-71c-6.884 0-26.4-3.2637-31 2z"
+      fill="#5a5a5a"
+  />
+  <path
+      d="m5 3l-1 115 141-1 1-112-141-2z"
+      fill="#e7e7e7"
+  />
+  <path
+      d="m16 3v1l130 1v113l-131-1v1l132 1 1-116h-132z"
+      fill="#070707"
+  />
+  <path
+      d="m15 4v1h33l-33-1z"
+      fill="#8d8d8d"
+  />
+  <path
+      d="m48 4v1h53l-17-1h-36z"
+      fill="#5a5a5a"
+  />
+  <path
+      d="m7 17v1h4c-11.074 13.095 1.202 16.048 11 21 2.267-7.381 1.157-10.601-3-17-2.799 0.221-7.347-0.647-5-4l-7-1m8 0v1h10v13l24-11v-1h-10v-1h12c-9.56-4.011-25.613-1-36-1z"
+      fill="#b1b1b1"
+  />
+  <path
+      d="m7 18v4l4-4h-4z"
+      fill="#8d8d8d"
+  />
+  <path
+      d="m12 19l7 3 5 9h1v-13l-13 1m27-1v1h10v1l-6 3v1l12-4v1l-5 2v1l5-1 1 11-1 5h2c3.628-4.872 8.208-6.659 14-8v4c6.547-4.698 10.39-7.84 19-9 0.253 11.936 0.557 28.748-16 30v1h6v2c-7.166 0-25.445 3.211-30-3-5.263 4.645-4 11.518-4 18h-3v-5h-1l-1 8-13-4 3 1-1-3c-6.254 1.15-8.67-1.996-9-8h-1c-0.062 5.296-1.396 8.103-5 12l5-17c-8.982 2.459-6.543 9.152-8 17h-4l4-14-5-3v32h3c0.012 4.238-0.5328 8.406 4 10v-6l4 6h4v7h1v-7l17-2 1-7h-4v-2c4.988-0.865 6.288-5.653 8-10h1v3h1v-3h1v7h-1v-3h-1l2 20-3-2h-1l-2 7h22v-1l-2-1 2-2-2-3 7-2h-7l5-8h-5l-6-23h-1l-1 25h-2v-32l12 1v7l3-2-1 6 4 19v1l10 3v1l-4 1v1l19-2 5 4v-5l-8-7 17 7c-0.02-7.92-1.26-10.122-7-15l5 1-3-6 15 4c-3-8.93-14.59-24.699-10-34-1.9-6.507-5.33-12.972 3-16v-1c-6.4-4.299-9.89-5.982-17-2 0.897-5.638 4.879-6.811 10-8v-1c-10.599 0-23.492 5.51-32 0v7h-1v-7h-2v8l-7 1 1-9h-25z"
+      fill="#5a5a5a"
+  />
+  <path
+      d="m95 24l18-5c-5.46-2.287-14.868-0.138-18 5m23-6c0 12.635-0.01 26.194 5 38h1c-0.35-16.976-2.46-25.578 18-26v-6l-17 4-1-10h-1v10h-1v-10h-4z"
+      fill="#8d8d8d"
+  />
+  <path
+      d="m48 23v1l7-3-7 2m11-2l1 9h1v-9h-2z"
+      fill="#b1b1b1"
+  />
+  <path
+      d="m23 33l1 1 11-2c-0.218 3.986-0.674 6.797 3 9l-2-12h5v-1h-3v-1l10-4-25 10z"
+      fill="#8d8d8d"
+  />
+  <path
+      d="m48 29l7 1v-7c-3.833 1.012-5.836 2.127-7 6z"
+      fill="#e7e7e7"
+  />
+  <path
+      d="m45 25l1 7 10 2c-1.928-3.498-4.122-3.875-8-4l2-6-5 1z"
+      fill="#070707"
+  />
+  <path
+      d="m38 27v1l6-2-6 1z"
+      fill="#b1b1b1"
+  />
+  <path
+      d="m41 27c2.024 3.665 1.913 5.944-1 9h4l3 20 6-9v-16l-7 1-1-6-4 1z"
+      fill="#5a5a5a"
+  />
+  <path
+      d="m75 29c0 7.067 3.259 20.377-1 26v1c16.964-0.552 16.549-17.958 16-30l-15 3z"
+      fill="#e7e7e7"
+  />
+  <path
+      d="m145 26v56h1v-38l-1-18z"
+      fill="#b1b1b1"
+  />
+  <path
+      d="m39 36l4-1v-7c-4.226 1.554-5.143 3.697-4 8z"
+      fill="#e7e7e7"
+  />
+  <path
+      d="m36 29l1 10 4-3-5-7z"
+      fill="#313131"
+  />
+  <path
+      d="m48 29v1h6l-6-1z"
+      fill="#8d8d8d"
+  />
+  <path
+      d="m74 30l-5 26v-4h-1v3c-6.669 0-11.584 0.062-17-4-6.418 8.005-8 12.552-8 23h3c0-6.9-0.497-12.366 4-18l1 3h1l1-1-2-2v-1l17 2-1 2h13v-2h-6c3.275-6.294 2.727-20.501 0-27z"
+      fill="#b1b1b1"
+  />
+  <path
+      d="m57 39h-2l-1-6c-2.641 1.344-4.792 13.17-1 14l-1 6 4-7c5.078 2.478 11.278 4.194 13 10 6.438-4.174 2.055-18.375 2-25-5.821 0.86-11.27 2.463-14 8z"
+      fill="#e7e7e7"
+  />
+  <path
+      d="m26 32v1c6.425 3.578 2.268 14.761 2 21h1l6-16-3-6h-6z"
+      fill="#313131"
+  />
+  <path
+      d="m32 32v6l3-6h-3z"
+      fill="#e7e7e7"
+  />
+  <path
+      d="m124 56h18v-1h-15c-0.29-6.725-3.36-16.241 1-22-8.42-2.222-4.18 18.685-4 23z"
+      fill="#b1b1b1"
+  />
+  <path
+      d="m24 36c3.807 0 4 9.683 4 13h1v-16l-5 3z"
+      fill="#070707"
+  />
+  <path
+      d="m7 34l4 19h-4v4c3.143-1.083 5.753-2.948 8 0h1l1-3 1 3c8.214-0.455 6.77-6.377 8-13h1v3h1l-2-12-2-1h-1l-1 5-15-5z"
+      fill="#313131"
+  />
+  <path
+      d="m29 34v5h1l-1-5m9 5v1l6-4-6 3z"
+      fill="#b1b1b1"
+  />
+  <path
+      d="m30 54c8.488-2.655 15.88-4.703 14-15-11.094 1.54-14 3.673-14 15z"
+      fill="#e7e7e7"
+  />
+  <path
+      d="m19 44l2 5-2-5z"
+      fill="#8d8d8d"
+  />
+  <path
+      d="m26 44c-1.164 4.889-1.421 17.117-9 10l-1 3h-1v-3l-8 3 6 5 7-4-5 17c5.091-3.879 3.644-7.795 6.303-12.87 3.639-6.946 10.103-9.108 4.697-18.13z"
+      fill="#b1b1b1"
+  />
+  <path
+      d="m101 44l4 19h1c0-7.122 1.03-14.097-5-19z"
+      fill="#e7e7e7"
+  />
+  <path
+      d="m109 45l-2 3 2-3z"
+      fill="#8d8d8d"
+  />
+  <path
+      d="m119 45v7l-9-4c-1.78 11.206 4.31 22.117 9 32l-15-4 3 6-5-1c4.96 6.308 8.41 8.099 5 17l9 7-2 3h-73l-1-6h-1v6h-26l2-4c-4.631-2.91-4.954-8.915-5-14h-3c0 3.768-1.4128 9.054 3 10v1l-3 1 4 4-3 3 122-1v-1l-16-10h8v-1h-10c0.89-16.176 17.68-16.471 30-17v-1l-22 1-2-7 8 3c-1.31-4.153-3.86-4.772-8-5l2-6h3l-4-19z"
+      fill="#b1b1b1"
+  />
+  <path
+      d="m56 46l-2 8 14 1c-0.961-5.556-7.132-7.34-12-9z"
+      fill="#313131"
+  />
+  <path
+      d="m120 46l3 18h-3l-2 6c3.97 0.443 6.12 1.422 8 5l-8-3 2 7 22-1v-22c-12.14 0-17 1.482-22-10z"
+      fill="#5a5a5a"
+  />
+  <path
+      d="m1 47v42h1c0-11.957 3.6107-31.012-1-42z"
+      fill="#8d8d8d"
+  />
+  <path
+      d="m30 51h-1c-1.709 6.141-14.022 13.626-5 20 2.269-11.479 6.928-5.608 7 3h11l5-27c-4.829 0.741-12.856 8.567-17 4z"
+      fill="#070707"
+  />
+  <path
+      d="m108 49l1 9h1l-2-9z"
+      fill="#8d8d8d"
+  />
+  <path
+      d="m147 49v37h1c0-10.649 3.11-27.202-1-37z"
+      fill="#313131"
+  />
+  <path
+      d="m106 52v11h-1c-0.78-4.123-0.63-8.463-5-10l3 7-4-2 9 12-2-18z"
+      fill="#b1b1b1"
+  />
+  <path
+      d="m114 54l3 5-3-5z"
+      fill="#5a5a5a"
+  />
+  <path
+      d="m51 55v1l2 3 15-1-17-3z"
+      fill="#313131"
+  />
+  <path
+      d="m3 60l1 52h1v-38l-2-14z"
+      fill="#8d8d8d"
+  />
+  <path
+      d="m52 61v32h2l1-25h1l7 22 5-1 1-10-2 4h-1l-2-21-12-1z"
+      fill="#e7e7e7"
+  />
+  <path
+      d="m115 61l4 5-4-5z"
+      fill="#313131"
+  />
+  <path
+      d="m9 62l-1 13h1v-4l3 1-3-10z"
+      fill="#e7e7e7"
+  />
+  <path
+      d="m11 62l1 10-3-1v4h3l1-13h-2m13 10l6 1c3.778-9.088-4.991-13.664-6-1z"
+      fill="#8d8d8d"
+  />
+  <path
+      d="m66 67v16h1l-1-10c2.969-1.998 2.368-3.615 0-6m31 3l9 4-9-4m-69 3c2.878 4.125 8.332 3.961 13 4-2.024-6.386-7.794-3.026-13-4m14 2l3 2-3-2z"
+      fill="#b1b1b1"
+  />
+  <path
+      d="m45.333 79.667l0.334 0.666-0.334-0.666z"
+      fill="#e7e7e7"
+  />
+  <path
+      d="m47 79l-1 3-9 7v2c6.196 1.912 5.996 7.376 6 13h1v-3h1l3 2-2-20h1v3h1l-1-7z"
+      fill="#313131"
+  />
+  <path
+      d="m117 85l8 4 12-1-2-4 4-3c-7.73-1.435-16.64-2.761-22 4z"
+      fill="#5a5a5a"
+  />
+  <path
+      d="m136 80v1h3l-4 3 2 4-12 1c-5.52-9.029-12.83-0.219-13 7l30 2v-18h-6m-68 1v8l-5-1h-1c0.654 3.054 2.007 2.936 5 3l2 10h-7l2 3v1l-2 2 52 1 2-3c-3.24-6.348-17.005-14.877-24-16l8 7v5l-5-4-19 2v-1l4-1v-1l-10-3v-1c2.904-2.579-0.549-7.889-2-11z"
+      fill="#8d8d8d"
+  />
+  <path
+      d="m145 82v35h1l-1-35m2 4v33h1l-1-33z"
+      fill="#5a5a5a"
+  />
+  <path
+      d="m23.667 87.333l0.666 0.334-0.666-0.334z"
+      fill="#e7e7e7"
+  />
+  <path
+      d="m1 89v30h13v-1h-12l-1-29z"
+      fill="#5a5a5a"
+  />
+  <path
+      d="m40 92v6l-17 2v7h-1v-7h-4c-0.263-3.41-0.679-4.901-4-6-0.08 3.806-3.892 8.95 1 10l-2 4h26v-6h1l2 6c1.559-5.27 2.137-11.949-2-16z"
+      fill="#8d8d8d"
+  />
+  <path
+      d="m62 99h7c-2.186-3.324-4.402-2.624-7 0z"
+      fill="#e7e7e7"
+  />
+  <path
+      d="m130 98v1l12 1v-2h-12z"
+      fill="#b1b1b1"
+  />
+  <path
+      d="m70 100v2l21 3-1-5h-20z"
+      fill="#e7e7e7"
+  />
+  <path
+      d="m15 116v1h38c-10.036-4.21-27.089-1-38-1z"
+      fill="#8d8d8d"
+  />
+  <path
+      d="m53 116v1h41c-10.75-4.51-29.304-1-41-1z"
+      fill="#b1b1b1"
+  />
+  <path
+      d="m14 117c3.407 3.9 13.099 2 18 2h50v-1c-21.36 0-47.223 3.95-68-1m100 0v1h32l-32-1z"
+      fill="#313131"
+  />
+  <path
+      d="m111 119v1h37c-9.8-4.11-26.35-1-37-1z"
+      fill="#b1b1b1"
+  />
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >ROSA PARKS</dc:title
+        >
+        <dc:date
+          >2013-09-30T09:37:36</dc:date
+        >
+        <dc:description
+          >This public domain image comes from http://www.loc.gov/rr/print/list/083_afr.html and as of 2013-09-30 09:13:51 is this file, http://memory.loc.gov/pnp/cph/3c10000/3c11000/3c11200/3c11235t.gif. ROSA PARKS, seated on bus, looking out window, her face in profile. Photographed at the end of the Montgomery bus boycott, 21 Dec. 1956. United Press photo. Location of Original: New York World-Telegram &amp; Sun Collection, SUBJ/GEOG - Racism Reproduction Number: LC-USZ62-111235 .loc.gov </dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/184016/rosa-parks-by-worldlabel-184016</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >worldlabel</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >3c10000</rdf:li
+            >
+            <rdf:li
+              >3c11000</rdf:li
+            >
+            <rdf:li
+              >3c11200</rdf:li
+            >
+            <rdf:li
+              >3c11235t</rdf:li
+            >
+            <rdf:li
+              >Activists</rdf:li
+            >
+            <rdf:li
+              >AfricanAmerican</rdf:li
+            >
+            <rdf:li
+              >ROSA-PARKS</rdf:li
+            >
+            <rdf:li
+              >cph</rdf:li
+            >
+            <rdf:li
+              >dig</rdf:li
+            >
+            <rdf:li
+              >memory</rdf:li
+            >
+            <rdf:li
+              >pd</rdf:li
+            >
+            <rdf:li
+              >pnp</rdf:li
+            >
+            <rdf:li
+              >publicdomain</rdf:li
+            >
+            <rdf:li
+              >upload2openclipart</rdf:li
+            >
+            <rdf:li
+              >vectorized</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

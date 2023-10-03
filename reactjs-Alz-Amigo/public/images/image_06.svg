@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    viewBox="0 0 119 150"
+  >
+  <path
+      d="m0 0v150h119v-150h-119z"
+      fill="#f4f4f4"
+  />
+  <path
+      d="m3 4l1 65h1v-64h42c-11.463-4.8102-31.52-1-44-1z"
+      fill="#303030"
+  />
+  <path
+      d="m38 5v1c24.408 0 54.27 4.65 78-1l-24-1-54 1z"
+      fill="#5d5d5d"
+  />
+  <path
+      d="m5 5v1h33l-33-1z"
+      fill="#848484"
+  />
+  <path
+      d="m114 5l-1 129h2l1-129h-2z"
+      fill="#0d0d0d"
+  />
+  <path
+      d="m5 6l-1 136 108 1 1-137h-108z"
+      fill="#f4f4f4"
+  />
+  <path
+      d="m113 6v36h1c0-10.387 3.01-26.44-1-36z"
+      fill="#a7a7a7"
+  />
+  <path
+      d="m11 8v1h10c0.001 5.11-0.872 9.719 5 11l-2-11h54v1h-3l2 3-1 3-4-2 1 10-4 6-3 1 9 14h1l5-12h-2l1-4h1l2 5h1l-2-9h5l-3-2 5-9c4.175 0.482 7.711-0.327 10-4l6 2c-2.76-6.8768-16.696-4-23-4h-71z"
+      fill="#848484"
+  />
+  <path
+      d="m104 8l5 7v-7h-5z"
+      fill="#5d5d5d"
+  />
+  <path
+      d="m109 8v7l-10-5-10 4c-2.203 4.43-5.377 6.717-2 11h-5l2 9h-1l-2-5h-1l-1 4h2l-5 12h-1c-1.629-2.816-6.557-9.667-10-7h-1v-4l-5 4h-3l-5-3-5 3 1 3c-9.779 5.09-11.908 15.806-1 21l3-7-2 7h2v9l8-6-4 1 1-4h-4c1.738-3.97 7.362-9.186 3-13v-1l14-1-1 9c4.392 0.716 5.572 2.962 7 7 5.036-2.452 7.612-5.251 12 0l7-4v12h1l1-7 9 2v5l1-2h1l3 6 1-48v-19z"
+      fill="#a7a7a7"
+  />
+  <path
+      d="m11 9v76h4l-3 13h1v-2h1l1 3h2v-9l4 11h1l3-8-1-10 5 1v-6l14-4 2-10-3 2c0.759-11.961-7.439-15.49 5-25l-1-3 5-3 5 3h3l5-4v4h1l3-1-2-6 3-1 4-6-1-10 4 2 1-3c-3.597 0-1.004-2.352 1-3v-1h-54l2 11c-5.365-1.972-4.996-5.882-5-11h-10z"
+      fill="#5d5d5d"
+  />
+  <path
+      d="m20 21v60c5.172-1.74 8.536-3.525 10-9-4.435-3.999-3.139-7.596-4-13l3 1 1-31-2-7-8-1m33 16l-2 5 2-5m60 5v31h1l-1-31z"
+      fill="#848484"
+  />
+  <path
+      d="m115 42v34h1l-1-34z"
+      fill="#303030"
+  />
+  <path
+      d="m53 49h14c-3.017-4.727-10.806-4.43-14 0z"
+      fill="#5d5d5d"
+  />
+  <path
+      d="m55 50l-5 12h4l-1 4 14-1 3 4-21 2v-9h-2l2-7-3 7-5-3 1 7 3-2c0.594 6.245 0.494 17.163 9 17.972 4.988 0.474 7.867-2.859 13-0.972v1l-8 6v1l9-2-1-4 2 1v-1c0.211-11.713 14.576-9.545 20.895-3.772 4.995 4.562 5.18 11.123 8.662 16.469 1.513 2.322 3.923 2.74 6.443 3.303l2-13h1v3h1v-19h-1v5l-3-6h-1l-1 2v-5l-9-2-1 7h-1v-12l-7 4c-2.585-4.689-7.468-4.83-10 0h-2l-10-6h5v1h-2v1l6 1-6-4v-7l-11 1z"
+      fill="#848484"
+  />
+  <path
+      d="m3 54v79h1v-54l-1-25z"
+      fill="#0d0d0d"
+  />
+  <path
+      d="m53 60v1l3-1h2l1 2 2-5-8 3m10-3c1.749 4.442 4.611 4.352 9 4v-1l-6-1v-1h2l-5-1z"
+      fill="#303030"
+  />
+  <path
+      d="m10 62v78h1v-54l-1-24z"
+      fill="#a7a7a7"
+  />
+  <path
+      d="m57 65l-3 6 16-2-3-4c-3.124 2.353-6.708 1.796-10 0z"
+      fill="#303030"
+  />
+  <path
+      d="m4 69v48h1c0-13.53 4.2093-35.586-1-48z"
+      fill="#5d5d5d"
+  />
+  <path
+      d="m44 71c-7.979 17.432 21.178 23.654 28.431 33.04 5.517 7.14 6.668 18.72 10.569 26.96l10-4c-2.094-5.09-3.353-11.26-5.97-16-2.001-3.62-6.039-6.37-7.532-10.17-1.343-3.424 0.763-7.27 0.343-10.83-0.656-5.566-5.549-9.951-9.841-13l1 21c-8.654-3.695-23.499-17.55-25-27h-2z"
+      fill="#f4f4f4"
+  />
+  <path
+      d="m41 73l-12 5v6l-5-1c1.918 4.661 4.903 7.722 1 12l2 33-14 3v1l9 1v1l-5 1 3 5 88 1v-28c-4.59-1.42-4.21-5.03-6-9l-2 1c-3.268-7.224-6.716-17.099-14-21 4.931 15.346 16.17 27.48 12 45h-2l-1-3c-4.564 1.56-9.159 5.22-14 5.63-11 0.95-19.958-13.29-26-20.63l3-1-3-12 7 1-11.711-11.17-9.289-14.83z"
+      fill="#0d0d0d"
+  />
+  <path
+      d="m55 77l5 1 9-2c-2.773-4.155-11.423-2.974-14 1z"
+      fill="#a7a7a7"
+  />
+  <path
+      d="m113 73v38h1c0-10.91 3.21-27.964-1-38m-17 56h2c4.79-16.2-5.425-31.213-12-45l14 21 2-1c1.28 4.41 0.84 8.14 6 9v28h-18v1h19l-1-56h-1l-2 13c-13.957-4.483-9.23-25.136-28.981-24.851-9.833 0.142 2.324 11.243 3.402 14.851 1.197 4.007-1.72 7.913-0.435 11.83 1.257 3.83 5.339 6.76 7.451 10.17 3.926 6.35 4.402 12.01 9.563 18m19-53v20h1l-1-20m-61 6c3.869 8.028 7.912 4.535 13 0-4.064-4.135-8.027-1.076-13 0z"
+      fill="#5d5d5d"
+  />
+  <path
+      d="m67 83l1 4h1l-2-4m-56 2v55l10-1-4-4 5-1v-1l-9-1v-1l14-3-2-33c3.126-2.262 2.823-4.398 2-8h-1l-1 6-3 8h-1l-4-11v9l-3-3h-1v2h-1l3-13h-4z"
+      fill="#303030"
+  />
+  <path
+      d="m67 87l-7 2 8 7-1-9z"
+      fill="#a7a7a7"
+  />
+  <path
+      d="m68 87l-1 10 4 1-3-11z"
+      fill="#5d5d5d"
+  />
+  <path
+      d="m115 96v28h1l-1-28z"
+      fill="#a7a7a7"
+  />
+  <path
+      d="m55 98l3 12-3 1c6.246 10.95 15.917 20.88 29 21-4.193-8.82-6.387-26.77-15.04-31.91-4.086-2.426-9.393-1.607-13.96-2.09z"
+      fill="#303030"
+  />
+  <path
+      d="m81 100v2l3 1 1-3-1-1-3 1m31 12v22h1l-1-22z"
+      fill="#a7a7a7"
+  />
+  <path
+      d="m92 116l-1 4 4-1v-2l-1-1h-2m-88 1v16h1l-1-16m-2 16c0 3.14-1.0471 8.78 1.0278 11.4 3.7603 4.74 24.13 1.6 29.972 1.6v-1h-30v-2h36v-1h-35v-9h-2z"
+      fill="#848484"
+  />
+  <path
+      d="m112 134c0 3.99-0.6 7.67 3 10v-10h-3z"
+      fill="#5d5d5d"
+  />
+  <path
+      d="m11 140v1h21l-21-1z"
+      fill="#848484"
+  />
+  <path
+      d="m71 141v1h19l-19-1m-32 1v1h17l-17-1z"
+      fill="#a7a7a7"
+  />
+  <path
+      d="m3 143v2l112 1c-3.8-5.03-21.745-2-28-2-28.02 0-55.945-1-84-1z"
+      fill="#0d0d0d"
+  />
+  <path
+      d="m56 143v1h56l-18-1h-38z"
+      fill="#303030"
+  />
+  <path
+      d="m33 145v1h32l-32-1z"
+      fill="#5d5d5d"
+  />
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >MARY MCLEOD BETHUNE</dc:title
+        >
+        <dc:date
+          >2013-09-30T09:37:22</dc:date
+        >
+        <dc:description
+          >This public domain image comes from http://www.loc.gov/rr/print/list/083_afr.html and as of 2013-09-30 09:13:51 is this file, http://memory.loc.gov/service/pnp/cph/3a40000/3a42000/3a42700/3a42795t.gif. Description: MARY MCLEOD BETHUNE, half-length, wearing white blouse and jacket. Silver gelatin photographic print by Carl Van Vechten, 1949 April 6. Location of Original: LOT 12735, no. 130 Reproduction Number: LC-USZ62-42476 .loc.gov </dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/183998/mary-mcleod-bethune-by-worldlabel-183998</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >worldlabel</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >3a40000</rdf:li
+            >
+            <rdf:li
+              >3a42000</rdf:li
+            >
+            <rdf:li
+              >3a42700</rdf:li
+            >
+            <rdf:li
+              >3a42795t</rdf:li
+            >
+            <rdf:li
+              >Activists</rdf:li
+            >
+            <rdf:li
+              >AfricanAmerican</rdf:li
+            >
+            <rdf:li
+              >MARY-MCLEOD-BETHUNE</rdf:li
+            >
+            <rdf:li
+              >cph</rdf:li
+            >
+            <rdf:li
+              >dig</rdf:li
+            >
+            <rdf:li
+              >memory</rdf:li
+            >
+            <rdf:li
+              >pd</rdf:li
+            >
+            <rdf:li
+              >pnp</rdf:li
+            >
+            <rdf:li
+              >publicdomain</rdf:li
+            >
+            <rdf:li
+              >service</rdf:li
+            >
+            <rdf:li
+              >upload2openclipart</rdf:li
+            >
+            <rdf:li
+              >vectorized</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

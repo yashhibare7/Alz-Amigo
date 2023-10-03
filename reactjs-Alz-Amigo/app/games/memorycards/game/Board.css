@@ -1,0 +1,11 @@
+/* Since 1 level to 10 level */
+.board-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 6px;
+}
+
+/* Since 11 level to infinity */
+.board-level-11 .board-grid {
+    grid-template-columns: repeat(3, 1fr);
+}
