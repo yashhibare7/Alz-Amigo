@@ -19,9 +19,10 @@ const Footer = () => {
                     <h5 className="text-center mt-2">In-Memory</h5>
 
                     <div className="col-md-6 text-md-left mb-3 mb-md-0 mt-4 justify-content-center">
-                        <h5 className='text-center'>Created for</h5>
+                        <h5 className='text-center'>Creator</h5>
                         <div className='d-flex justify-content-center'>
-                                Project of Zeemerquest
+                           
+                                Project For zeemerquest
                         </div>
                     </div>
 
