@@ -66,7 +66,7 @@ def run_alexa():
         talk(info)
 
    
-    
+    #Joke
     elif 'joke' in command:
         print(pyjokes.get_joke())
         talk(pyjokes.get_joke())
@@ -77,8 +77,9 @@ def run_alexa():
         print(g.city)
         talk('your current location is' + g.city)
 
+    #memory game
     elif 'memory game' in command:
-         webbrowser.open('http://localhost:3000/games/memorycards')
+         webbrowser.open('http://localhost:3000/')
 
 
 
